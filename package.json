@@ -1,6 +1,7 @@
 {
   "name": "try-ng-notif",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "to set notification for predii apps",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -10,6 +11,19 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitramteke/try-ng-notif.git"
+  },
+  "keywords": [
+    "ui-notification",
+    "javascript",
+    "notification",
+    "angularjs",
+    "ui-notify",
+    "ng-notify"
+  ],
+  "author": "Sumit Ramteke",
   "private": true,
   "dependencies": {
     "@angular/common": "^4.0.0",
@@ -42,5 +56,9 @@
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sumitramteke/try-ng-notif/issues"
+  },
+  "homepage": "https://github.com/sumitramteke/try-ng-notif#readme"
 }
